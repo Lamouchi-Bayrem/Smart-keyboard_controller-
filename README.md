@@ -29,7 +29,7 @@ Note: For non-Windows OS, volume control may fall back to keyboard shortcuts, wh
 
 1. Run the script:
    ```
-   python multigame_smooth_keyboard.py
+   python smartcontroller.py
    ```
 
 2. The app window opens with tabs for Camera (live feed), Controls (manual sliders), and Settings.
