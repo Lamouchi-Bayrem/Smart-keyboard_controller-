@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 multigame_smooth_keyboard.py
 A smoother Smart Control App with non-blocking brightness control and an on-screen gesture keyboard.
@@ -30,6 +30,7 @@ import cv2
 import numpy as np
 import mediapipe as mp
 import pyautogui
+import PyQt
 
 from PyQt5.QtCore import Qt, QThread, pyqtSignal, QTimer
 from PyQt5.QtGui import QImage, QPixmap, QFont
