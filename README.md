@@ -66,6 +66,7 @@ Settings are saved in `multigame_settings.json`. Key parameters:
 - Volume control may vary by OS; no direct support for all backends.
 - No multi-monitor support yet.
 - Keyboard is basic QWERTY; no symbols/numbers.
+-For the next step the code will be organized into init.py and we will add a launch file named run.py to automate the checks of dependencys and troubleshooting 
 
 ## Contributing
 
