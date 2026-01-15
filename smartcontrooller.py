@@ -9,8 +9,6 @@ Features:
  - Improved cursor smoothing and configurable parameters saved to JSON.
  - Minimal overlays and performance indicators.
 
-Requirements: Python 3.8+, opencv-python, mediapipe, numpy, pyautogui, PyQt5
-Optional: screen_brightness_control, pycaw (Windows audio)
 
 """
 
@@ -1099,4 +1097,5 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     win = MainWindow()
     win.show()
+
     sys.exit(app.exec_())
