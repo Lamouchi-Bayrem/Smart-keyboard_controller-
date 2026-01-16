@@ -9,7 +9,6 @@ Features:
  - Improved cursor smoothing and configurable parameters saved to JSON.
  - Minimal overlays and performance indicators.
 
-
 """
 
 import sys
@@ -1099,3 +1098,4 @@ if __name__ == '__main__':
     win.show()
 
     sys.exit(app.exec_())
+
